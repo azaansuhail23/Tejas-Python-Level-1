@@ -1,0 +1,1 @@
+list=["Azaan","Tejas",24,70.42,True]
