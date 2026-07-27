@@ -5,7 +5,7 @@ name=["T","E","J","A","S"]
 print(name[2])
 print(name[-3])
 
-# Learning Inbuil methods of list
+# Learning Inbuilt methods of list
 print(len(name))
 
 # It add element at the end
@@ -19,6 +19,4 @@ name.reverse()
 print(name)
 
 name.clear()
-
-
 # Documentation : https://www.geeksforgeeks.org/python/list-methods-python/
